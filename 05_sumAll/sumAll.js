@@ -17,6 +17,8 @@ const sumAll = function(num1, num2) {
         max = num1;
     }
     
+    //Checks that starting point is higher than 0 and type of both values are numbers
+    
     if (sum >= 0 && typeof sum === "number" && typeof max === "number") {
         while (counter < max) {
             sum = sum + (counter + 1);
