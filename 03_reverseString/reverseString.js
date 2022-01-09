@@ -1,6 +1,5 @@
 const reverseString = function(str) {
     
-    // let str1 = str.toString();
     let auxiliar = [];
     let reversedstr = [];
 
