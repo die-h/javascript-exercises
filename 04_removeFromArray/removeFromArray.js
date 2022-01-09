@@ -1,4 +1,4 @@
-//First checks if the array has the argume
+//First checks if the array includes the argument, if true proceeds to remove it.
 
 const removeFromArray = function(arr, ...args) {
 
